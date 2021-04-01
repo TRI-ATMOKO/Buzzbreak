@@ -2,7 +2,7 @@ clear
 pkg install sl
 sl
 cd
-cd Buzzbreak/Buzzbreak/Done && php bot.php
+cd Buzzbreak/Buzzbreak/Done/Search-ID && php bot.php
 clear
 figlet TRI ATMOKO
 sleep 1
