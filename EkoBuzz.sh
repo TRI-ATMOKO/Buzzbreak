@@ -32,7 +32,9 @@ pkg install sl
 xdg-open https://wa.me/6285215084951
 sl
 cd
-cd Buzzbreak/Buzzbreak/Done/Search-ID && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/ && unzip Buzzbreak.zip
+cd
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/Done/Search-ID && php bot.php
 clear
 figlet TRI ATMOKO
 sleep 1
@@ -40,7 +42,7 @@ figlet MISI
 sleep 1
 figlet LOGIN
 cd
-cd Buzzbreak/Buzzbreak/LogIn && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/LogIn && php bot.php
 clear
 figlet TRI ATMOKO
 sleep 1
@@ -48,7 +50,7 @@ figlet MISI
 sleep 1
 figlet PERTAMA
 cd
-cd Buzzbreak/Buzzbreak/Watch && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/Watch && php bot.php
 clear
 figlet TRI ATMOKO
 sleep 1
@@ -56,7 +58,7 @@ figlet MISI
 sleep 1
 figlet KEDUA
 cd
-cd Buzzbreak/Buzzbreak/NewsRead && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/NewsRead && php bot.php
 clear
 figlet TRI ATMOKO
 sleep 1
@@ -64,7 +66,7 @@ figlet MISI
 sleep 1
 figlet KETIGA
 cd
-cd Buzzbreak/Buzzbreak/50Point && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/50Point && php bot.php
 clear
 figlet MENUJU
 figlet MISI
@@ -76,4 +78,4 @@ figlet TRI ATMOKO
 sleep 1
 figlet UNLIMITED
 cd
-cd Buzzbreak/Buzzbreak/1Hours && php bot.php
+cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/1Hours && php bot.php
