@@ -34,7 +34,18 @@ sl
 cd
 cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/ && unzip Buzzbreak.zip
 cd
+figlet TRI ATMOKO
+sleep 1
+figlet ISI CONFIG
+sleep 1
+figlet DULU BRO
+cd
 cd /sdcard/WhatsApp/Media/WhatsApp\ Documents/Buzzbreak/Buzzbreak/Done/Search-ID && php bot.php
+clear
+figlet SELAMAT
+figlet ANDA TELAH
+figlet LOGIN
+sleep 3
 clear
 figlet TRI ATMOKO
 sleep 1
